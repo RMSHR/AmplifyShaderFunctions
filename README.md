@@ -1,6 +1,8 @@
 AmplifyShaderFunctions
 =======
 
+![gif](http://i.imgur.com/OFjCw9w.gif) ![gif](http://i.imgur.com/296gdVp.gif)
+
 My additionnal functions for shading in Unity, using *Amplify Shader* plugin.
 
 AMPLIFY SHADER FUNCTIONS TYPES
