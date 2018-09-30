@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78b2425a2284af743826c689403a4924, type: 3}
+  m_Name: Shape-RectOutlined
+  m_EditorClassIdentifier: 
+  m_functionInfo: "// Made with Amplify Shader Editor\n// Available at the Unity Asset
+    Store - http://u3d.as/y3X \n/*ASEBEGIN\nVersion=15301\n452;92;1084;710;3114.324;569.6608;1.703628;True;True\nNode;AmplifyShaderEditor.FunctionInput;16;-2447.274,142.8755;Float;False;Top;1;1;False;1;0;FLOAT;0.5;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionInput;26;-2429.638,-125.333;Float;False;Thickness;1;0;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionInput;13;-2459.929,-316.6252;Float;False;UV;2;4;False;1;0;FLOAT2;0,0;False;1;FLOAT2;0\nNode;AmplifyShaderEditor.FunctionInput;14;-2435.227,420.3699;Float;False;Left;1;5;False;1;0;FLOAT;0.25;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionInput;15;-2442.4,324.4689;Float;False;Right;1;3;False;1;0;FLOAT;0.25;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionInput;17;-2443.796,228.1275;Float;False;Bottom;1;2;False;1;0;FLOAT;0.5;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionNode;27;-1787.673,269.4863;Float;False;Shape-Rect;-1;;3;9c80ca3a1c46cc74480b8cae46f49288;0;5;16;FLOAT;0.5;False;17;FLOAT;0.5;False;15;FLOAT;0.25;False;13;FLOAT2;0,0;False;14;FLOAT;0.25;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionNode;28;-1787.092,-170.6866;Float;False;Shape-Rect;-1;;2;9c80ca3a1c46cc74480b8cae46f49288;0;5;16;FLOAT;0.5;False;17;FLOAT;0.5;False;15;FLOAT;0.25;False;13;FLOAT2;0,0;False;14;FLOAT;0.25;False;1;FLOAT;0\nNode;AmplifyShaderEditor.SimpleAddOpNode;29;-2016.969,-221.9541;Float;False;2;2;0;FLOAT;0;False;1;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.SimpleAddOpNode;30;-2012.008,-101.2275;Float;False;2;2;0;FLOAT;0;False;1;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.SimpleSubtractOpNode;33;-1305.838,93.91965;Float;False;2;0;FLOAT;0;False;1;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.SimpleAddOpNode;31;-2013.662,16.19147;Float;False;2;2;0;FLOAT;0;False;1;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.SimpleAddOpNode;32;-2025.238,141.8794;Float;False;2;2;0;FLOAT;0;False;1;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionOutput;0;-1004.672,109.5319;Float;False;True;Output;0;False;1;0;FLOAT;0;False;1;FLOAT;0\nWireConnection;27;16;16;0\nWireConnection;27;17;17;0\nWireConnection;27;15;15;0\nWireConnection;27;13;13;0\nWireConnection;27;14;14;0\nWireConnection;28;16;29;0\nWireConnection;28;17;30;0\nWireConnection;28;15;31;0\nWireConnection;28;13;13;0\nWireConnection;28;14;32;0\nWireConnection;29;0;26;0\nWireConnection;29;1;16;0\nWireConnection;30;0;26;0\nWireConnection;30;1;17;0\nWireConnection;33;0;28;0\nWireConnection;33;1;27;0\nWireConnection;31;0;26;0\nWireConnection;31;1;15;0\nWireConnection;32;0;26;0\nWireConnection;32;1;14;0\nWireConnection;0;0;33;0\nASEEND*/\n//CHKSM=737682C9BE2C25A0339496997E09CB88F13E1B13"
+  m_functionName: 
+  m_description: 
+  m_additionalIncludes:
+    m_additionalIncludes: []
+    m_outsideIncludes: []
+  m_additionalPragmas:
+    m_additionalPragmas: []
+    m_outsidePragmas: []
+  m_nodeCategory: 3
+  m_customNodeCategory: 
+  m_previewPosition: 0

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78b2425a2284af743826c689403a4924, type: 3}
+  m_Name: Random
+  m_EditorClassIdentifier: 
+  m_functionInfo: "// Made with Amplify Shader Editor\n// Available at the Unity Asset
+    Store - http://u3d.as/y3X \n/*ASEBEGIN\nVersion=15301\n7;29;1906;1004;1664.667;666.6915;1.3;True;True\nNode;AmplifyShaderEditor.FunctionInput;8;-937.4168,-69.99136;Float;False;Float;1;1;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.SimpleMultiplyOpNode;9;-744.967,-12.7915;Float;False;2;2;0;FLOAT;0;False;1;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionInput;10;-956.167,108.1085;Float;False;Factor;1;0;False;1;0;FLOAT;512;False;1;FLOAT;0\nNode;AmplifyShaderEditor.SinOpNode;2;-533.9147,-40.09205;Float;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FractNode;4;-358.4153,-84.2921;Float;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionOutput;0;86.9,-22.1;Float;True;True;Output;0;False;1;0;FLOAT;0;False;1;FLOAT;0\nWireConnection;9;0;8;0\nWireConnection;9;1;10;0\nWireConnection;2;0;9;0\nWireConnection;4;0;2;0\nWireConnection;0;0;4;0\nASEEND*/\n//CHKSM=7C10141BA279DA62EA7C47F210DB0AE5BE1FB05B"
+  m_functionName: 
+  m_description: 'Random noise
+
+
+    Base on : https://thebookofshaders.com/10/
+
+    Thanks to Patricio Gonzalez Vivo & Jen Lowe'
+  m_additionalIncludes:
+    m_additionalIncludes: []
+    m_outsideIncludes: []
+  m_additionalPragmas:
+    m_additionalPragmas: []
+    m_outsidePragmas: []
+  m_nodeCategory: 3
+  m_customNodeCategory: 
+  m_previewPosition: 0

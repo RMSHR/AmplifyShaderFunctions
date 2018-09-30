@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78b2425a2284af743826c689403a4924, type: 3}
+  m_Name: Shape-RoundedRectOutlined
+  m_EditorClassIdentifier: 
+  m_functionInfo: "// Made with Amplify Shader Editor\n// Available at the Unity Asset
+    Store - http://u3d.as/y3X \n/*ASEBEGIN\nVersion=15301\n4;23;2546;1370;1982;782;1;True;True\nNode;AmplifyShaderEditor.FunctionInput;4;-1423,139;Float;False;Size;2;3;False;1;0;FLOAT2;0,0;False;1;FLOAT2;0\nNode;AmplifyShaderEditor.SimpleSubtractOpNode;8;-477,-25;Float;False;2;0;FLOAT;0;False;1;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionNode;10;-861,-158;Float;False;Shape-RoundedRect;-1;;4;cb3144cc80ebf4f488a6662e23b4039b;0;3;10;FLOAT;0.2;False;8;FLOAT2;0.3,0.4;False;7;FLOAT2;0,0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionNode;9;-868,64;Float;False;Shape-RoundedRect;-1;;3;cb3144cc80ebf4f488a6662e23b4039b;0;3;10;FLOAT;0.2;False;8;FLOAT2;0.3,0.4;False;7;FLOAT2;0,0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionInput;3;-1421,-10;Float;False;UV;2;2;False;1;0;FLOAT2;0,0;False;1;FLOAT2;0\nNode;AmplifyShaderEditor.FunctionInput;6;-1430,-142;Float;False;Thickness;1;0;False;1;0;FLOAT;0.1;False;1;FLOAT;0\nNode;AmplifyShaderEditor.SimpleAddOpNode;5;-1069,-51;Float;False;2;2;0;FLOAT;0;False;1;FLOAT2;0,0;False;1;FLOAT2;0\nNode;AmplifyShaderEditor.FunctionInput;7;-1438,-294;Float;False;Rounded;1;1;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionOutput;0;0,0;Float;False;True;Output;0;False;1;0;FLOAT;0;False;1;FLOAT;0\nWireConnection;8;0;10;0\nWireConnection;8;1;9;0\nWireConnection;10;10;7;0\nWireConnection;10;8;5;0\nWireConnection;10;7;3;0\nWireConnection;9;10;7;0\nWireConnection;9;8;4;0\nWireConnection;9;7;3;0\nWireConnection;5;0;6;0\nWireConnection;5;1;4;0\nWireConnection;0;0;8;0\nASEEND*/\n//CHKSM=0A1563627E9CACC09ABBA86230FE68914A840C29"
+  m_functionName: 
+  m_description: 
+  m_additionalIncludes:
+    m_additionalIncludes: []
+    m_outsideIncludes: []
+  m_additionalPragmas:
+    m_additionalPragmas: []
+    m_outsidePragmas: []
+  m_nodeCategory: 3
+  m_customNodeCategory: 
+  m_previewPosition: 0

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78b2425a2284af743826c689403a4924, type: 3}
+  m_Name: Shape-SquareOutline
+  m_EditorClassIdentifier: 
+  m_functionInfo: "// Made with Amplify Shader Editor\n// Available at the Unity Asset
+    Store - http://u3d.as/y3X \n/*ASEBEGIN\nVersion=15301\n452;92;1084;710;1691.197;442.6197;1.3;True;True\nNode;AmplifyShaderEditor.FunctionInput;3;-1123,-41;Float;False;UV;2;2;False;1;0;FLOAT2;0,0;False;1;FLOAT2;0\nNode;AmplifyShaderEditor.FunctionInput;5;-1147,-281;Float;False;Thickness;1;0;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionInput;4;-1105,191;Float;False;Size;1;1;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.SimpleAddOpNode;6;-785,-183;Float;False;2;2;0;FLOAT;0;False;1;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionNode;9;-455,131;Float;False;Shape-Square;-1;;2;87f9f7b116e90e847bcbf6040a80ede5;0;2;20;FLOAT2;0,0;False;5;FLOAT;0.87;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionNode;8;-462,-124;Float;False;Shape-Square;-1;;1;87f9f7b116e90e847bcbf6040a80ede5;0;2;20;FLOAT2;0,0;False;5;FLOAT;0.87;False;1;FLOAT;0\nNode;AmplifyShaderEditor.SimpleSubtractOpNode;7;-59,44;Float;False;2;0;FLOAT;0;False;1;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionOutput;0;147,18;Float;False;True;Output;0;False;1;0;FLOAT;0;False;1;FLOAT;0\nWireConnection;6;0;5;0\nWireConnection;6;1;4;0\nWireConnection;9;20;3;0\nWireConnection;9;5;4;0\nWireConnection;8;20;3;0\nWireConnection;8;5;6;0\nWireConnection;7;0;8;0\nWireConnection;7;1;9;0\nWireConnection;0;0;7;0\nASEEND*/\n//CHKSM=A893C6D0D0D5A92DB96FB203467FC4CE99FC13B3"
+  m_functionName: 
+  m_description: 
+  m_additionalIncludes:
+    m_additionalIncludes: []
+    m_outsideIncludes: []
+  m_additionalPragmas:
+    m_additionalPragmas: []
+    m_outsidePragmas: []
+  m_nodeCategory: 3
+  m_customNodeCategory: 
+  m_previewPosition: 0
