@@ -9,11 +9,12 @@ AMPLIFY SHADER FUNCTIONS TYPES
 -------------------
 
 ### Shader types
-There is 4 types of functions made :
+There is 5 types of functions made :
 
 - Random : some functions for fast randomization with Float and Vec2.
 - Shapes : some functions to help you create basic shapes (circle, square, triangle, rect, and with/without edges)
 - Waves : some functions to help you making gradients ou lerp values from A to B with a precise wave shape.
+- Transform : nodes to transform space and time. Can't do coffee at the same time.
 - Other : wip functions without a type (like amod).
 
 ### Nodes usage
@@ -32,4 +33,11 @@ Most of shapes are designed on this first node. The pivot can change the center 
 ![gif](http://i.imgur.com/fq9BKtZ.gif)
 Thanks to Flopine & Koltes, Amod function is a way for duplication shapes in a circle. It uses polar coordinates. For simplification : you don't duplicate the shape, you "duplicate" the space where the space will be created.
 
+UPDATES
+-------------------
 
+### 2018-10-01
+Add Transform type
+Remove Rotate2D node (useless), use Rotator instead with value mul PI
+Move amod to Transform type
+Add 2 nodes : Xmirror & YMirror
