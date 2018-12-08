@@ -21,6 +21,6 @@ MonoBehaviour:
   m_additionalPragmas:
     m_additionalPragmas: []
     m_outsidePragmas: []
-  m_nodeCategory: 3
-  m_customNodeCategory: 
+  m_nodeCategory: 0
+  m_customNodeCategory: Transform
   m_previewPosition: 0

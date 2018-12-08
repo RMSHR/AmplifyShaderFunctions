@@ -3,7 +3,7 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: Shape-PolygonOutlined
   m_EditorClassIdentifier: 
   m_functionInfo: "// Made with Amplify Shader Editor\n// Available at the Unity Asset
-    Store - http://u3d.as/y3X \n/*ASEBEGIN\nVersion=15301\n452;92;1084;710;1637.29;429.1322;1.314444;True;True\nNode;AmplifyShaderEditor.FunctionInput;10;-1282,396;Float;False;Sides;1;1;False;1;0;FLOAT;3;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionInput;8;-1279,-200;Float;False;Thickness;1;0;False;1;0;FLOAT;0.1;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionInput;7;-1292,-66;Float;False;Size;1;3;False;1;0;FLOAT;0.4;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionInput;6;-1300,156;Float;False;UV;2;2;False;1;0;FLOAT2;0,0;False;1;FLOAT2;0\nNode;AmplifyShaderEditor.FunctionNode;18;-679,-95;Float;False;Shape-Polygon;-1;;13;19e16d7ee18510d40b73e30ff19eadbb;0;3;32;FLOAT;0.4;False;2;FLOAT2;0,0;False;1;FLOAT;3;False;1;FLOAT;0\nNode;AmplifyShaderEditor.SimpleSubtractOpNode;3;-197,78;Float;False;2;0;FLOAT;0;False;1;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.SimpleAddOpNode;9;-965,-73;Float;False;2;2;0;FLOAT;0;False;1;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionNode;17;-705,117;Float;False;Shape-Polygon;-1;;14;19e16d7ee18510d40b73e30ff19eadbb;0;3;32;FLOAT;0.4;False;2;FLOAT2;0,0;False;1;FLOAT;3;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionOutput;0;0,0;Float;False;True;Output;0;False;1;0;FLOAT;0;False;1;FLOAT;0\nWireConnection;18;32;9;0\nWireConnection;18;2;6;0\nWireConnection;18;1;10;0\nWireConnection;3;0;18;0\nWireConnection;3;1;17;0\nWireConnection;9;0;8;0\nWireConnection;9;1;7;0\nWireConnection;17;32;7;0\nWireConnection;17;2;6;0\nWireConnection;17;1;10;0\nWireConnection;0;0;3;0\nASEEND*/\n//CHKSM=1E043B7A7F85E49FA266B28C5D73D104685F2AD4"
+    Store - http://u3d.as/y3X \n/*ASEBEGIN\nVersion=15301\n276;116;1587;917;1967.873;565.1771;1.314444;True;False\nNode;AmplifyShaderEditor.SimpleAddOpNode;9;-965,-73;Float;False;2;2;0;FLOAT;0;False;1;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.SimpleSubtractOpNode;3;-197,78;Float;False;2;0;FLOAT;0;False;1;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionNode;20;-679,-95;Float;False;Shape-Polygon;-1;;16;19e16d7ee18510d40b73e30ff19eadbb;0;3;32;FLOAT;0.4;False;2;FLOAT2;0,0;False;1;FLOAT;3;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionNode;19;-705,117;Float;False;Shape-Polygon;-1;;15;19e16d7ee18510d40b73e30ff19eadbb;0;3;32;FLOAT;0.4;False;2;FLOAT2;0,0;False;1;FLOAT;3;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionInput;10;-1282,396;Float;False;Sides;1;1;False;1;0;FLOAT;3;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionInput;8;-1279,-200;Float;False;Thickness;1;0;False;1;0;FLOAT;0.1;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionInput;6;-1300,156;Float;False;UV;2;2;False;1;0;FLOAT2;0,0;False;1;FLOAT2;0\nNode;AmplifyShaderEditor.FunctionInput;7;-1292,-66;Float;False;Size;1;3;False;1;0;FLOAT;0.4;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionOutput;0;0,0;Float;False;True;Output;0;False;1;0;FLOAT;0;False;1;FLOAT;0\nWireConnection;9;0;8;0\nWireConnection;9;1;7;0\nWireConnection;3;0;20;0\nWireConnection;3;1;19;0\nWireConnection;20;32;9;0\nWireConnection;20;2;6;0\nWireConnection;20;1;10;0\nWireConnection;19;32;7;0\nWireConnection;19;2;6;0\nWireConnection;19;1;10;0\nWireConnection;0;0;3;0\nASEEND*/\n//CHKSM=AFFC957099EB684BA0A89475CC30F13F0D54BBDB"
   m_functionName: 
   m_description: 
   m_additionalIncludes:
@@ -21,6 +21,6 @@ MonoBehaviour:
   m_additionalPragmas:
     m_additionalPragmas: []
     m_outsidePragmas: []
-  m_nodeCategory: 3
-  m_customNodeCategory: 
+  m_nodeCategory: 0
+  m_customNodeCategory: Shapes
   m_previewPosition: 0
